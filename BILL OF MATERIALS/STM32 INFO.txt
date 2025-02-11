@@ -1,0 +1,5 @@
+STM32 INFO.txt
+
+I think I will need around 3 or 4 of them, since anti-ghosting is weird
+
+STM32F103C8T6 DATASHEET -> https://www.lcsc.com/datasheet/lcsc_datasheet_2302211130_STMicroelectronics-STM32F103C8T6_C8734.pdf
