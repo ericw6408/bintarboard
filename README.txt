@@ -5,4 +5,8 @@ This is my Capstone project for my high school class! I will be building a custo
 
 This is my first time doing anything similar to this! YAHOOO
 
-Currently done PCB, case & plate design, working on getting it to work with QMK right now.
+Current:
+Soldered PCB, printed case and plate, and assembled.
+Unfortunately, RDP protection was enabled, which means that flashing code onto the STM32 processor isn't possible. 
+
+General overview of the project on https://youtu.be/W4MYoR_t5gU 
